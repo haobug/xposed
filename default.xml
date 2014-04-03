@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="origin"
+           fetch=".." />
+  <default revision="master"
+           remote="origin"
+           sync-j="1" />
+    <project path="Xposed" name="Xposed/.git" />
+    <project path="XposedAppSettings" name="XposedAppSettings/.git" />
+    <project path="XposedBridge" name="XposedBridge/.git" />
+    <project path="XposedInstaller" name="XposedInstaller/.git" />
+    <project path="XposedMods" name="XposedMods/.git" />
+
+</manifest>
