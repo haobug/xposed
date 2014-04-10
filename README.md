@@ -11,3 +11,9 @@ initialize the repo, DO NOT use git clone directly.
 clone all repositories in one shot.
 
   repo sync
+
+or with multi jobs downloading, where '9' value is equal to you cpu core number or that plus 1.
+
+  repo sync -j9
+  
+
