@@ -2,14 +2,14 @@
 <manifest>
 
   <remote  name="origin"
-           fetch=".." />
+           fetch="https://github.com/rovo89/" />
   <default revision="master"
            remote="origin"
            sync-j="1" />
-    <project path="Xposed" name="Xposed/.git" />
-    <project path="XposedAppSettings" name="XposedAppSettings/.git" />
-    <project path="XposedBridge" name="XposedBridge/.git" />
-    <project path="XposedInstaller" name="XposedInstaller/.git" />
-    <project path="XposedMods" name="XposedMods/.git" />
+    <project path="Xposed" name="Xposed" />
+    <project path="XposedAppSettings" name="XposedAppSettings" />
+    <project path="XposedBridge" name="XposedBridge" />
+    <project path="XposedInstaller" name="XposedInstaller" />
+    <project path="XposedMods" name="XposedMods" />
 
 </manifest>
