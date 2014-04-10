@@ -1,7 +1,7 @@
 xposed
 ======
 
-xposed all sub projects from https://github.com/rovo89 in 1, managed with repo
+clone all sub projects from https://github.com/rovo89 in 1, managed with repo
 
 
 initialize the repo, DO NOT use git clone directly.
